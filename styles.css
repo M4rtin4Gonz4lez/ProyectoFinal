@@ -99,11 +99,11 @@ nav ul li a:hover {
 /* footer */
 footer{
     background-color: #D4A373; 
-    padding: 2%;
-    margin-bottom: 10px;
-    display: flex;
+    /* margin: auto;
+    display: flex; */
     flex-direction: column;
     text-align: center;
+    border-style: solid;
 }
 section #footer{
     display: flex;
@@ -120,9 +120,11 @@ section a .redes {
     font-size: 15;
 }
 #contacto{
-    margin-bottom: 2%;
-    padding: 3%;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
 }
+
 /* cierro footer */
 p {
     text-align: justify;
