@@ -74,7 +74,7 @@ nav ul li a:hover {
     grid-template-columns: auto auto auto;
     grid-column-gap: 2px;
     align-items: center;
-    border-style: dotted 2px #555  ;
+    /* border-style: dotted 2px #555  ; */
 }
 .QVE{
     width: 10px;
